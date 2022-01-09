@@ -1,0 +1,6 @@
+https://thingspeak.com/channels/1628530
+
+Field 1: <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1628530/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=20&title=Light+Intensity&type=line&yaxis=Lux"></iframe>
+Field 2: <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1628530/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=20&title=Humidity&type=line&yaxis=%25"></iframe>
+Field 3: <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1628530/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=20&title=Temperature&type=line&yaxis=Celcius"></iframe>
+Field 4: <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1628530/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=20&title=Air+Quality+Index&type=line&yaxis=PPM"></iframe>
