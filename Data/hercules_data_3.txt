@@ -1,0 +1,184 @@
+Data frame: 33.00&73.00&27.10&0.00
+Light intensity: 33.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 6
+Send fail counter: 0
+NULL data counter: 1
+Delay time: 30000ms
+Waiting...
+
+Delay time lower than process time!
+
+Data frame: 33.00&73.00&27.10&0.00
+Light intensity: 33.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 7
+Send fail counter: 0
+NULL data counter: 1
+Delay time: 30000ms
+Waiting...
+
+Data frame: 33.00&73.00&27.10&0.00
+Light intensity: 33.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 8
+Send fail counter: 0
+NULL data counter: 1
+Delay time: 30000ms
+Waiting...
+
+Data frame: 32.00&73.00&27.10&0.00
+Light intensity: 32.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 9
+Send fail counter: 0
+NULL data counter: 1
+Delay time: 30000ms
+Waiting...
+
+Delay time lower than process time!
+
+Data frame: 32.00&73.00&27.10&0.00
+Light intensity: 32.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 10
+Send fail counter: 0
+NULL data counter: 1
+Delay time: 30000ms
+Waiting...
+
+Data frame: 31.00&NULL&NULL&0.00
+Light intensity: 31.00 lux
+Humidity: NULL%
+Temperature: NULLC
+Air quality index: 0.00 PPM
+Error data
+Send success counter: 10
+Send fail counter: 0
+NULL data counter: 2
+Delay time: 30000ms
+Waiting...
+
+Data frame: 32.00&73.00&27.10&0.00
+Light intensity: 32.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 11
+Send fail counter: 0
+NULL data counter: 2
+Delay time: 30000ms
+Waiting...
+
+Restart ESP8266!{FF}
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x4010f000, len 3460, room 16 
+tail 4
+chksum 0xcc
+load 0x3fff20b8, len 40, room 4 
+tail 4
+chksum 0xc9
+csum 0xc9
+v000606a0
+~ld
+
+SDK:2.2.2-dev(38a443e)/Core:3.0.2=30002000/lwIP:STABLE-2_1_2_RELEASE/glue:1.2-48-g7421258/BearSSL:6105635
+fpm close 1 
+mode : sta(80:7d:3a:3b:de:48)
+add if0
+connecting......scandone
+state: 0 -> 2 (b0)
+.state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 3
+cnt 
+..
+connected with Huy Hoang, channel 1
+dhcp client start...
+ip:192.168.1.100,mask:255.255.255.0,gw:192.168.1.1
+pm open,type:2 0
+
+Wifi SSID: Huy Hoang
+Wifi passwordú÷
+SDK:2.2.2-dev(38a443e)/Core:3.0.2=30002000/lwIP:STABLE-2_1_2_RELEASE/glue:1.2-48-g7421258/BearSSL:6105635
+sl
+connecting.....scandone
+usl
+connected: 192.168.1.100
+Data frame: 31.00&73.00&27.10&0.00
+Light intensity: 31.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 1
+Send fail counter: 0
+NULL data counter: 0
+Delay time: 30000ms
+Waiting...
+
+Data frame: 31.00&73.00&27.10&0.00
+Light intensity: 31.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 2
+Send fail counter: 0
+NULL data counter: 0
+Delay time: 30000ms
+Waiting...
+
+Data frame: 32.00&73.00&27.10&0.00
+Light intensity: 32.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 3
+Send fail counter: 0
+NULL data counter: 0
+Delay time: 30000ms
+Waiting...
+
+Data frame: 31.00&73.00&27.10&0.00
+Light intensity: 31.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 0.00 PPM
+Update success.
+Send success counter: 4
+Send fail counter: 0
+NULL data counter: 0
+Delay time: 30000ms
+Waiting...
+
+Data frame: 33.00&73.00&27.10&1.00
+Light intensity: 33.00 lux
+Humidity: 73.00%
+Temperature: 27.10C
+Air quality index: 1.00 PPM
+Update success.
+Send success counter: 5
+Send fail counter: 0
+NULL data counter: 0
+Delay time: 30000ms
+Waiting...
